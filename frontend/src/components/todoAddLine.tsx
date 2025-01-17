@@ -21,6 +21,7 @@ const TodoAddLine: React.FC = () => {
             // Добавляем новое todo в Redux store
             dispatch(addTodo(response.data)); // Предполагается, что сервер возвращает добавленный todo
 
+
             // Очищаем поле ввода
             setInputValue('');
         } catch (error) {
