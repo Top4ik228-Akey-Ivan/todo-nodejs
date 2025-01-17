@@ -1,4 +1,4 @@
-# Memory Game
+# Todo
 
 Этот проект был разработан для изучения языка typescript, а также практики работы с redux, nodejs и базой данных mongodb
 
